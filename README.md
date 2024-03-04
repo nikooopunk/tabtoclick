@@ -6,4 +6,3 @@ git clone https://github.com/nikooopunk/tabtoclick
 cd tabtoclick
 chmod u+x tabtoclick.sh
 ./tabtoclick.sh
-
